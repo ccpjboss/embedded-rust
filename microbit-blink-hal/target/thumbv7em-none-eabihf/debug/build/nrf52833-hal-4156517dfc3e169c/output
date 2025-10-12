@@ -1,0 +1,3 @@
+cargo:rustc-link-search=/Users/joaopedrocastilho/embedded-rust-projects/microbit-blink-hal/target/thumbv7em-none-eabihf/debug/build/nrf52833-hal-4156517dfc3e169c/out
+cargo:rerun-if-changed=build.rs
+cargo:rerun-if-changed=memory.x

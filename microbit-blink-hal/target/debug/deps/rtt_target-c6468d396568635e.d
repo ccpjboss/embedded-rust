@@ -1,0 +1,9 @@
+/Users/joaopedrocastilho/embedded-rust-projects/rustymicrobit-blink/target/debug/deps/rtt_target-c6468d396568635e.d: /Users/joaopedrocastilho/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rtt-target-0.6.1/src/lib.rs /Users/joaopedrocastilho/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rtt-target-0.6.1/src/debug.rs /Users/joaopedrocastilho/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rtt-target-0.6.1/src/rtt.rs /Users/joaopedrocastilho/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rtt-target-0.6.1/src/init.rs /Users/joaopedrocastilho/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rtt-target-0.6.1/src/print.rs
+
+/Users/joaopedrocastilho/embedded-rust-projects/rustymicrobit-blink/target/debug/deps/librtt_target-c6468d396568635e.rmeta: /Users/joaopedrocastilho/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rtt-target-0.6.1/src/lib.rs /Users/joaopedrocastilho/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rtt-target-0.6.1/src/debug.rs /Users/joaopedrocastilho/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rtt-target-0.6.1/src/rtt.rs /Users/joaopedrocastilho/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rtt-target-0.6.1/src/init.rs /Users/joaopedrocastilho/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rtt-target-0.6.1/src/print.rs
+
+/Users/joaopedrocastilho/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rtt-target-0.6.1/src/lib.rs:
+/Users/joaopedrocastilho/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rtt-target-0.6.1/src/debug.rs:
+/Users/joaopedrocastilho/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rtt-target-0.6.1/src/rtt.rs:
+/Users/joaopedrocastilho/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rtt-target-0.6.1/src/init.rs:
+/Users/joaopedrocastilho/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rtt-target-0.6.1/src/print.rs:

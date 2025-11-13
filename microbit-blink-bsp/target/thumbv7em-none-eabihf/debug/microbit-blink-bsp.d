@@ -1,1 +1,0 @@
-/Users/joaopedrocastilho/embedded-rust-projects/microbit-blink-bsp/target/thumbv7em-none-eabihf/debug/microbit-blink-bsp: /Users/joaopedrocastilho/embedded-rust-projects/microbit-blink-bsp/src/main.rs

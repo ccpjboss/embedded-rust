@@ -67,6 +67,16 @@ dependencies = [
 ]
 
 [[package]]
+name = "microbit-blink-unsafe"
+version = "0.1.0"
+dependencies = [
+ "cortex-m",
+ "cortex-m-rt",
+ "panic-halt",
+ "rtt-target",
+]
+
+[[package]]
 name = "nb"
 version = "0.1.3"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -129,16 +139,6 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "138e3e0acb6c9fb258b19b67cb8abd63c00679d2851805ea151465464fe9030a"
 dependencies = [
  "semver",
-]
-
-[[package]]
-name = "rustymicrobit-blink"
-version = "0.1.0"
-dependencies = [
- "cortex-m",
- "cortex-m-rt",
- "panic-halt",
- "rtt-target",
 ]
 
 [[package]]
